@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, como vai? sou Victor Gonçalves (Gonco) 👋 
 
-<!--
-**goncoG1T/goncoG1T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/goncoG1T">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goncoG1T&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncoG1T&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estudando [Java](https://roadmap.sh/java) e tecnologias [Backend](https://roadmap.sh/backend), ambos orientados pelo roadmap dos links. 
+- 🐱‍👤 Cursando - Análise e Desenvolvimento de Sistemas pela Fatec. 
+- 😄 Pronomes: ele/dele.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🙋‍♂️ Entre em contato comigo !!
+<div align="left">
+ <a href="https://www.linkedin.com/in/victorgonco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:victorgoncarmo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
