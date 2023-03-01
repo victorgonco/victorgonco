@@ -2,7 +2,7 @@
 
 
 
-- 👷🏿‍♂️ Atualmente trabalhando com [Java](https://roadmap.sh/java)(JPA, QueryDSL, Hibernate, Padrão Facade), tecnologias [Backend](https://roadmap.sh/backend) em APIs Restful (BFF) e modelagem de banco SQL. 
+- 👷🏿‍♂️ Atualmente trabalhando com [Java](https://roadmap.sh/java) (JPA, QueryDSL, Hibernate, Padrão Facade), tecnologias [Backend](https://roadmap.sh/backend) em APIs Restful (BFF) e modelagem de banco SQL. 
 - 👨🏿‍🎓 Formado - Análise e Desenvolvimento de Sistemas pela Fatec. 
 - 💬 Entre em contato comigo pelos meios abaixo:
 <div align="left">
