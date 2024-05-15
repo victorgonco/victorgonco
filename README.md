@@ -1,9 +1,5 @@
 ### Olá, como vai? sou Victor Gonçalves (Gonco) 👋 
-
-
-
-- 👷🏿‍♂️ Desenvolvedor Java, com conhecimento em Spring (Data JPA, MVC, Web), JUnit 5 para testes unitários, QueryDSL x JPA e PostgreSQL (Modelagem e consultas). 
-- 👨🏿‍🎓 Análise e Desenvolvimento de Sistemas pela Fatec. 
+- 👷🏿‍♂️ Desenvolvedor Java, com conhecimento em Spring (Data JPA, MVC, Web), JUnit 5, QueryDSL x JPA e PostgreSQL (Modelagem e consultas). 
 - 💬 Entre em contato comigo pelos meios abaixo:
 <div align="left">
  <a href="https://www.linkedin.com/in/victorgonco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
