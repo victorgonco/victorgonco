@@ -1,7 +1,7 @@
 ### Opa, eaí?
-Prazer! Me chamo Victor, trabalho como desenvolvedor backend há 2 anos.  
+Prazer! Me chamo Victor e atuo como desenvolvedor backend há 2 anos.  
 
-Comecei programando em PIC16F877A e 8051 em Assembly/C e... ufa! Hoje sou Javeiro rsrs  
+Comecei no mundo de programação em 2016 em PIC16F877A e 8051 em Assembly/C mas... ufa! Hoje sou Javeiro :D  
 Brincadeiras à parte, sou backend, mas estou sempre em busca de investigar e aprender novas tecnologias :mag:  
 
 Atualmente, estou aprofundando meus conhecimentos sobre SO, virtualização e CI/CD... em breve farei alguns commits sobre isto :rocket:
