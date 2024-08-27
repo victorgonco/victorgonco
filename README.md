@@ -1,11 +1,11 @@
 ### Opa, eaí?
-Como desenvolvedor backend, atualmente trabalho na implementação e manutenção de novas features de negócio para uma aplicação web backoffice nas seguintes tecnologias:
+Como desenvolvedor backend, atualmente trabalho na implementação e manutenção de novas features de negócio para uma aplicação web backoffice em cloud Azure, utilizando as seguintes tecnologias:
 - Java 17/21;
-- Spring framework + Spring boot (3.3);
+- Spring framework + Spring boot (3.3) -  Data JPA, Security, Web MVC;
 - PostgreSQL - Queries e modelagem;
 - JUnit (Testes automatizados);
-- Kubernets/Docker;
-- Azure.
+- New relic (Observabilidade);
+- Argo CD e Azure pipelines (CI/CD).
 
 Sou apaixonado pelo aprendizado e movido à desafios, por isso não me limito as tecnologias que mencionei e estou sempre em expansão, além disso acredito na comunicação como ferramenta principal e sou proativo por natureza.
 
