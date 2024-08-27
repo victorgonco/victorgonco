@@ -1,12 +1,15 @@
 ### Opa, eaí?
-Prazer! Me chamo Victor e atuo como desenvolvedor backend há 2 anos.  
+Como desenvolvedor backend, atualmente trabalho na implementação e manutenção de novas features de negócio para uma aplicação web backoffice nas seguintes tecnologias:
+- Java 17/21;
+- Spring framework + Spring boot (3.3);
+- PostgreSQL - Queries e modelagem;
+- JUnit (Testes automatizados);
+- Kubernets/Docker;
+- Azure.
 
-Comecei no mundo de programação em 2016 em PIC16F877A e 8051 em Assembly/C mas... ufa! Hoje sou Javeiro :D  
-Brincadeiras à parte, sou backend, mas estou sempre em busca de investigar e aprender novas tecnologias :mag:  
+Sou apaixonado pelo aprendizado e movido à desafios, por isso não me limito as tecnologias que mencionei e estou sempre em expansão, além disso acredito na comunicação como ferramenta principal e sou proativo por natureza.
 
-Atualmente, estou aprofundando meus conhecimentos sobre SO, virtualização e CI/CD... em breve farei alguns commits sobre isto :rocket:
-
-Te vejo por aí!
+Prazer! Fico à disposição para contatos
 ___
 ### Skills
 
